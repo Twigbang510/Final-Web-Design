@@ -1,0 +1,22 @@
+.single__task{
+    padding: 0 20px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.task__content{
+    display: flex;
+    align-items: center;
+}
+.task__opts svg{
+    padding: 10px 10px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+.form__nameTask{
+    padding: 5px ;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #000;
+}
